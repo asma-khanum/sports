@@ -1,4 +1,4 @@
-# sports
+
 #EXTINF:-1,Sport*/911™PAC 12 MOUNTAIN
 http://ok2.se:8000/live/y9Chjj353r/c1ot7XUcsR/9689.ts
 #EXTINF:-1,Sport*/911™PAC 12 NETWORK
